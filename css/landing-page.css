@@ -156,3 +156,14 @@ p.copyright {
     width: auto;
     margin-right: 10px;
 }
+
+.section-heading > a {
+  color: #000;
+  text-decoration: none;
+  transition: all .4s;
+}
+
+.section-heading > a:hover {
+  color: #274054;
+  transition: all .4s;
+}

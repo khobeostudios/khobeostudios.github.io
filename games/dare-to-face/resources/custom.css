@@ -1,0 +1,31 @@
+body {
+    font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
+    background-color: #EADFD3;
+    color: #274054;
+    webkit-tap-highlight-color: #222;
+}
+
+a {
+    color: #5994B0;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+a:hover,
+a:focus {
+    color: #5994B0;
+    outline: 0;
+}
+
+.text-primary {
+    color: #274054;
+}
+
+li > a {
+	color: #274054 !important;
+}
+
+nav {
+	background-color: #EADFD3 !important;
+}
