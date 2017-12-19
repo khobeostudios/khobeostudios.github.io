@@ -167,3 +167,10 @@ p.copyright {
   color: #969696;
   transition: all .4s;
 }
+
+.app-logo {
+    height: 100px;
+    width: auto;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
